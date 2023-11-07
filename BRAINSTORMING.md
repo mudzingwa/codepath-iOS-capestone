@@ -1,5 +1,5 @@
 # BooksStack
-Bookmarked Reads is a comprehensive app designed for book enthusiasts. It allows users to save links to books, create reading lists, and discover new reads. The app simplifies the process of bookmarking books, categorizing them, and sharing recommendations with others.
+BookStack is a comprehensive app designed for book enthusiasts. It allows users to save links to books, create reading lists, and discover new reads. The app simplifies the process of bookmarking books, categorizing them, and sharing recommendations with others.
 
 
 ## Step 1.1: Favorite Existing Apps - List
