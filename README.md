@@ -12,12 +12,12 @@
 BookStack is a comprehensive app designed for book enthusiasts. It allows users to save links to books, create reading lists, and discover new reads. The app simplifies the process of bookmarking books, categorizing them, and sharing recommendations with others.
 
 ### App Evaluation
-    - **Category:** Lifestyle
-    - **Mobile:** Mobile is essential for the easy access to new books and keep track of reading list. The audio is used to record short reviews of the books.
-    - **Story:** Creates a single app where book lovers can discover new books and keep a running read-later list.
-    - **Market:** People interested in reading or want to pick up the habit can use this app to discover new books. 
-    - **Habit:** Users can use this app regularly when they want to find new books or update their reading list. 
-    - **Scope:** V1 would allow users to create an account, browse books and save the books to their read-later list. V2 would allow users to create different bookshelfs and share them with their friends and family. V2 will allow users to search books based on different categories such as fiction, biography etc. v3 would allow users to create posts and share them with the communities and read other people's posts based on the books they want to read.
+- **Category:** Lifestyle
+- **Mobile:** Mobile is essential for the easy access to new books and keep track of reading list. The audio is used to record short reviews of the books.
+- **Story:** Creates a single app where book lovers can discover new books and keep a running read-later list.
+- **Market:** People interested in reading or want to pick up the habit can use this app to discover new books. 
+- **Habit:** Users can use this app regularly when they want to find new books or update their reading list. 
+- **Scope:** V1 would allow users to create an account, browse books and save the books to their read-later list. V2 would allow users to create different bookshelfs and share them with their friends and family. V2 will allow users to search books based on different categories such as fiction, biography etc. v3 would allow users to create posts and share them with the communities and read other people's posts based on the books they want to read.
 
 
 ### User Features
@@ -93,7 +93,9 @@ BookStack is a comprehensive app designed for book enthusiasts. It allows users 
   </div>
 
   # Week 1 Update
-  ## What I Got Through
+  ## Sprint 1
+  
+  ### What I Got Done
   - Ideation - developed the app idea
   - Developed the Wireframe
   - Developed the digital wireframe for the app
@@ -102,6 +104,41 @@ BookStack is a comprehensive app designed for book enthusiasts. It allows users 
 ## Challenges
 - Coming up with app idea where I can utilize my tech stack
 - Developing the wireframes
+
+# Week 2 Update
+## Sprint 2
+### To-Do
+- Network the Google Books API to my app
+- Develop the user interface for the app
+      - Develop the Home screen with Dynamic scrolling
+      - Develop the Book detail screen to see details about the book
+      - Develop the Library to show saved book
+      - Develop the Navigation control to switch between screens
+      - Implement the search functionality
+
+  ### What I Got Done
+- Networking: used the API in my app to show books
+- Developed the user interface for the app
+      - Developed the Home screen to show books
+      - Developed the Book detail screen to see details about the book
+      - Developed the Library to show saved book
+      - Developed the Navigation control to switch between screens
+      - Implemented the seearch functionality for the app
+
+
+## Challenges
+- Failed to implement dynamic scrolling in my app for Home screen
+-  Faced challenges in networking the Google Books API
+-   aced challenge in developing the login screen
+
+### Digital Wireframe
+<div>
+    <a href="https://www.loom.com/share/cd08455a4d7a42ebb4c99f2c3470207b">
+    </a>
+    <a href="https://www.loom.com/share/cd08455a4d7a42ebb4c99f2c3470207b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cd08455a4d7a42ebb4c99f2c3470207b-with-play.gif">
+    </a>
+  </div>
 
 
 
