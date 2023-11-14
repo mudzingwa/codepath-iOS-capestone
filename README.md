@@ -131,7 +131,7 @@ BookStack is a comprehensive app designed for book enthusiasts. It allows users 
 -  Faced challenges in networking the Google Books API
 -   aced challenge in developing the login screen
 
-### Digital Wireframe
+### Walkthrough Video
 <div>
     <a href="https://www.loom.com/share/cd08455a4d7a42ebb4c99f2c3470207b">
     </a>
