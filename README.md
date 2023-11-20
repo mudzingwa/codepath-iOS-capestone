@@ -128,17 +128,56 @@ BookStack is a comprehensive app designed for book enthusiasts. It allows users 
 
 ## Challenges
 - Failed to implement dynamic scrolling in my app for Home screen
--  Faced challenges in networking the Google Books API
--   aced challenge in developing the login screen
+- Faced challenges in networking the Google Books API
+- Faced challenge in developing the login screen
 
-### Walkthrough Video
+
+# Week 3 Update
+## Sprint 3
+### To-Do
+- Put finishing touches to my UI to make it more user friendly
+- Implement seamless library functionalality to save and unsave books
+
+  ### What I Got Done
+- Put finishing touches to my UI to make it more user friendly
+- Implemented seamless library functionalality to save and unsave books
+- Finished to FINAL working project
+
+
+## Things I Can Change Going Forward
+- Implement Dynamic scrolling
+- Create user profile screen
+- Create search history functionality
+- Create login screens
+
+
+
+### Final Walkthrough Video
 <div>
     <a href="https://www.loom.com/share/cd08455a4d7a42ebb4c99f2c3470207b">
     </a>
     <a href="https://www.loom.com/share/cd08455a4d7a42ebb4c99f2c3470207b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cd08455a4d7a42ebb4c99f2c3470207b-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cd08455a4d7a42ebb4c99f2c3470207b-1700493105267-with-play.gif">
     </a>
   </div>
+
+
+
+## License
+
+    Copyright [2023] [Asheley Mudzingwa]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
 
 
